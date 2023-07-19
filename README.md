@@ -1,10 +1,10 @@
-# Taleem Back Office
+# Kanoko
 
-This the Taleem Back Office for creating taleem examinations.
+This the Kanoko Frontend Application, A Logistics Solution.
 
 This is project is built with a template starter kit using NextJS customized for starting MKAN web projects.
 
-For configuration visit this [Documentation](https://docs.minimals.cc/introduction).
+
 
 ## Project Setup
 
